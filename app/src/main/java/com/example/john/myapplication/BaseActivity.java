@@ -24,4 +24,8 @@ public class BaseActivity extends AppCompatActivity {
     private void featrue_02(){
 
     }
+
+    private void featrue_03(){
+
+    }
 }
