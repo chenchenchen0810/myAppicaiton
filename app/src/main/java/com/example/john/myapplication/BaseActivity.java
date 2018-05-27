@@ -16,4 +16,8 @@ public class BaseActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         ButterKnife.bind(this);
     }
+
+    private void init(){
+
+    }
 }
